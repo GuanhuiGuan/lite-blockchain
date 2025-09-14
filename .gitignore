@@ -1,0 +1,4 @@
+**/*.out
+**/*.DSYM
+**/.vscode
+**/adhoc*
