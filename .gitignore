@@ -1,4 +1,5 @@
 **/*.out
+lite_blockchain
 **/*.DSYM
 **/.vscode
 **/adhoc*
